@@ -18,7 +18,7 @@ tempDir = ""
 
 # Performance analysis
 import time
-time.sleep(0.1)
+time.sleep(0.2)
 
 # COMMAND ----------
 
